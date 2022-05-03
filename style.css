@@ -1,0 +1,37 @@
+h1
+{
+    font-size: xx-large;
+    text-align: center;
+    color: #085CA6;
+}
+
+h2
+{
+    font-size: x-large;
+    color: #074073;
+}
+
+body
+{
+    background-image: url("pictures/woodCut4.png");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-position: center;
+    background-size: cover;
+}
+section
+{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: grey;
+    opacity: 0.7;
+    width: 50%;
+    height: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.intro
+{
+    text-align: center;
+}
