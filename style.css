@@ -8,11 +8,13 @@ header
     top: 0px;
     left: 0px;
     z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 h1
 {
-    vertical-align: middle;
     font-size: xx-large;
     text-align: center;
     color: #085CA6;
