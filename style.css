@@ -50,7 +50,7 @@ section
     height: 50%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 10%;
+    margin-top: max(140px,10%);
     margin-bottom: 10%;
     z-index: 1;
 }
