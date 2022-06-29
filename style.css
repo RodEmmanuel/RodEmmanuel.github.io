@@ -45,14 +45,14 @@ section
 {
     border-radius: 10px;
     padding: 5px;
-    background-color: rgba(192,192,192,0.8);
+    background-color: rgba(192,192,192,0.85);
     min-width: 800px;
     width: 50%;
     height: 50%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: max(140px,10%);
-    margin-bottom: 10%;
+    margin-top: max(140px,8%);
+    margin-bottom: 8%;
     z-index: 1;
 }
 footer
